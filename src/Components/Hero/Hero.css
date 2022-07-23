@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.Hero-Section {
+    position: relative;
+    display: flex;
+
+    background-color: darkgray;
+
+    margin: auto;
+    margin-top: 0px;
+
+    height: 100vh;
+    width: 100%;
+}
+
+
+.Box {
+    margin: auto;
+}
